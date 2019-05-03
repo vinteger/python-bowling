@@ -1,7 +1,6 @@
 class Game:
     def __init__(self):
         self.rolls = []
-        self.frames = []
 
     def score(self):
         total_score = 0
